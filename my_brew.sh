@@ -23,3 +23,6 @@ fi
 
 # Window manager
 brew install --cask rectangle
+
+# VS Code
+brew install --cask visual-studio-code
