@@ -16,10 +16,10 @@ if test ! $(which brew); then
 fi
 
 # Make sure we’re using the latest Homebrew.
-brew update
+# brew update
 
 # Upgrade any already-installed formulae.
-brew upgrade --all
+# brew upgrade --all
 
 # Window manager
 brew install --cask rectangle
