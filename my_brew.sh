@@ -20,3 +20,6 @@ brew update
 
 # Upgrade any already-installed formulae.
 brew upgrade --all
+
+# Window manager
+brew install --cask rectangle
